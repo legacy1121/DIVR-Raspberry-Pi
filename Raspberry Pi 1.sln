@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raspberry Pi 1.CSharp.Plugins", "Raspberry Pi 1.CSharp.Plugins.csproj", "{A16C5F3B-DD34-2704-86F3-CFCE889E04F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raspberry Pi 1.CSharp", "Raspberry Pi 1.CSharp.csproj", "{0EA0FCE6-ABC5-1191-6977-75F3D1C2B907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raspberry Pi 1.CSharp.Editor", "Raspberry Pi 1.CSharp.Editor.csproj", "{72E57707-D67A-D001-98BD-CE62A749DD45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A16C5F3B-DD34-2704-86F3-CFCE889E04F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16C5F3B-DD34-2704-86F3-CFCE889E04F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16C5F3B-DD34-2704-86F3-CFCE889E04F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16C5F3B-DD34-2704-86F3-CFCE889E04F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA0FCE6-ABC5-1191-6977-75F3D1C2B907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA0FCE6-ABC5-1191-6977-75F3D1C2B907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA0FCE6-ABC5-1191-6977-75F3D1C2B907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA0FCE6-ABC5-1191-6977-75F3D1C2B907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E57707-D67A-D001-98BD-CE62A749DD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E57707-D67A-D001-98BD-CE62A749DD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E57707-D67A-D001-98BD-CE62A749DD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E57707-D67A-D001-98BD-CE62A749DD45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

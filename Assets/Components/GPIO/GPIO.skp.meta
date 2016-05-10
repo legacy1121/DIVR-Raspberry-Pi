@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: e3e4b24f381fa714fa2a0d9f620b3311
+timeCreated: 1437447236
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 549fa0af636ad04353c262af9d268ad2
+  longitude: -105.24213899999999
+  latitude: 40.018309000000002
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 15.8959007, y: 45.6254425, z: 24.128334}
+      lookAt: {x: 11.9237661, y: 32.2985954, z: 24.172821}
+      up: {x: -.958272755, y: .285653979, z: .0107318545}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PINPAIR
+    100004: PINPAIR 1
+    100006: PINPAIR 10
+    100008: PINPAIR 11
+    100010: PINPAIR 12
+    100012: PINPAIR 13
+    100014: PINPAIR 14
+    100016: PINPAIR 15
+    100018: PINPAIR 16
+    100020: PINPAIR 17
+    100022: PINPAIR 18
+    100024: PINPAIR 19
+    100026: PINPAIR 2
+    100028: PINPAIR 3
+    100030: PINPAIR 4
+    100032: PINPAIR 5
+    100034: PINPAIR 6
+    100036: PINPAIR 7
+    100038: PINPAIR 8
+    100040: PINPAIR 9
+    400000: //RootNode
+    400002: PINPAIR
+    400004: PINPAIR 1
+    400006: PINPAIR 10
+    400008: PINPAIR 11
+    400010: PINPAIR 12
+    400012: PINPAIR 13
+    400014: PINPAIR 14
+    400016: PINPAIR 15
+    400018: PINPAIR 16
+    400020: PINPAIR 17
+    400022: PINPAIR 18
+    400024: PINPAIR 19
+    400026: PINPAIR 2
+    400028: PINPAIR 3
+    400030: PINPAIR 4
+    400032: PINPAIR 5
+    400034: PINPAIR 6
+    400036: PINPAIR 7
+    400038: PINPAIR 8
+    400040: PINPAIR 9
+    2300000: PINPAIR
+    2300002: PINPAIR 1
+    2300004: PINPAIR 10
+    2300006: PINPAIR 11
+    2300008: PINPAIR 12
+    2300010: PINPAIR 13
+    2300012: PINPAIR 14
+    2300014: PINPAIR 15
+    2300016: PINPAIR 16
+    2300018: PINPAIR 17
+    2300020: PINPAIR 18
+    2300022: PINPAIR 19
+    2300024: PINPAIR 2
+    2300026: PINPAIR 3
+    2300028: PINPAIR 4
+    2300030: PINPAIR 5
+    2300032: PINPAIR 6
+    2300034: PINPAIR 7
+    2300036: PINPAIR 8
+    2300038: PINPAIR 9
+    3300000: PINPAIR
+    3300002: PINPAIR 1
+    3300004: PINPAIR 10
+    3300006: PINPAIR 11
+    3300008: PINPAIR 12
+    3300010: PINPAIR 13
+    3300012: PINPAIR 14
+    3300014: PINPAIR 15
+    3300016: PINPAIR 16
+    3300018: PINPAIR 17
+    3300020: PINPAIR 18
+    3300022: PINPAIR 19
+    3300024: PINPAIR 2
+    3300026: PINPAIR 3
+    3300028: PINPAIR 4
+    3300030: PINPAIR 5
+    3300032: PINPAIR 6
+    3300034: PINPAIR 7
+    3300036: PINPAIR 8
+    3300038: PINPAIR 9
+    4300000: Mesh PINPAIR
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Components/Circuit Board.unity
+  isLoaded: 1
+  isActive: 1
